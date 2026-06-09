@@ -1,6 +1,3 @@
-# 환경변수 호출
-from dotenv import load_dotenv
-load_dotenv()
 
 # OpenAI API 키를 사용하여 ChatOpenAI 모델을 초기화하는 예시
 from langchain_openai import ChatOpenAI #ChatOpenAI는 대화형 답변
